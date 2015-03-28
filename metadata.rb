@@ -1,6 +1,6 @@
 name             'chefconf2015_demoapp'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Intuit Inc.'
+maintainer_email 'intuchef@intuit.com'
 license          'All rights reserved'
 description      'Installs/Configures chefconf2015_demoapp'
 long_description 'Installs/Configures chefconf2015_demoapp'
