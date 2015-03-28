@@ -12,5 +12,5 @@ depends          'intu_tomcat',      '= 0.1.3'
 depends          'intu_chef-splunk',  '= 2.0.1'
 depends          'intu_wily',        '= 1.0.3’
 
-source_url 'https://github.com/shashirsa/chefconf2015_demoapp'
-issues_url 'https://github.com/shashirsa/chefconf2015_demoapp/issues'
+source_url "https://github.com/shashirsa/chefconf2015_demoapp"
+issues_url "https://github.com/shashirsa/chefconf2015_demoapp/issues"
