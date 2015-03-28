@@ -4,7 +4,7 @@ maintainer_email 'intuchef@intuit.com'
 license          'All rights reserved'
 description      'Installs/Configures chefconf2015_demoapp'
 long_description 'Installs/Configures chefconf2015_demoapp'
-version          '0.1.5'
+version          '0.1.6'
 
 source_url 'https://github.com/shashirsa/chefconf2015_demoapp'
 issues_url 'https://github.com/shashirsa/chefconf2015_demoapp/issues'
