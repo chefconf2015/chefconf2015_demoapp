@@ -4,7 +4,7 @@ maintainer_email 'intuchef@intuit.com'
 license          'All rights reserved'
 description      'Installs/Configures chefconf2015_demoapp'
 long_description 'Installs/Configures chefconf2015_demoapp'
-version          '1.0.6'
+version          '1.0.7'
 
 depends          'intu_java',        '= 0.1.9'
 depends          'intu_apache',      '= 2.0.0'

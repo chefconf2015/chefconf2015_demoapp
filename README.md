@@ -1,10 +1,10 @@
 # chefconf2015_demoapp-cookbook
 
-TODO: Enter the cookbook description here.
+This cookbook deploys demoapp.
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+RHEL, ubuntu.
 
 ## Attributes
 
@@ -16,10 +16,10 @@ TODO: List your supported platforms.
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['chefconf2015_demoapp']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
+    <td><tt>['chefconf2015_demoapp']['version']</tt></td>
+    <td>String</td>
+    <td>Version of demoapp</td>
+    <td><tt>1.0.0</tt></td>
   </tr>
 </table>
 
@@ -39,4 +39,4 @@ Include `chefconf2015_demoapp` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Intuchef (intuchef@intuit.com)
