@@ -20,10 +20,10 @@ RHEL, ubuntu.
     <td>String</td>
     <td>Version of demoapp</td>
     <td><tt>1.0.0</tt></td>
-  </tr>
-</table>
-
-## Usage
+  </tr> 
+</table> 
+ 
+## Usage 
 
 ### chefconf2015_demoapp::default
 
