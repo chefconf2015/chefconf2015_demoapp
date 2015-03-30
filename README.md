@@ -35,7 +35,7 @@ Include `chefconf2015_demoapp` in your node's `run_list`:
     "recipe[chefconf2015_demoapp::default]"
   ]
 }
-```
+``` 
 
 ## License and Authors
 
